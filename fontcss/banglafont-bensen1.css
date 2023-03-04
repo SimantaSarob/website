@@ -1,0 +1,8 @@
+@font-face{
+    font-family: bensen;
+    src: url(../font/BenSen.ttf) format('truetype') ;
+}
+body {
+    font-family: bensen;
+    font-size: 16px;
+}

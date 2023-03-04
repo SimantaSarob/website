@@ -1,0 +1,9 @@
+@font-face{
+    font-family: comingsoon;
+    src: url(../font/ComingSoon-Regular.ttf) format('truetype') ;
+    
+}
+
+body {
+    font-family: comingsoon,  moonscape;
+}

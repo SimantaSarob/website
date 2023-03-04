@@ -1,0 +1,53 @@
+@font-face{
+    font-family: bensen;
+    src: url(font/BenSen.ttf) format('truetype') ;
+    font-family: comingsoon;
+    src: url(font/ComingSoon-Regular.ttf) format('truetype') ;
+    font-family: arapey;
+    src: url(font/ArapeyRegular-X2Md.ttf) format('truetype') ;
+    font-family: ;
+    src: url(font/) format('truetype') ;
+
+}
+
+
+
+body {
+      background: black;
+      font-size: 12px;
+      margin: 10px;
+  }
+
+  
+a {
+    color: red;      
+  }
+a:visited{
+    color: orange;
+}
+p {
+    color: white;
+    
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+h3 {
+     text-align: center;
+     color: brown;
+ }
+ 
+div {    
+    padding: 15px;
+    color: white;
+    margin: 10px;
+    
+}
+img{
+    align-items: center;
+    width: 60%;
+    height: 70%;
+    padding: 20%;
+}
