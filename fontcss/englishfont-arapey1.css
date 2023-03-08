@@ -3,6 +3,6 @@
     src: url(../font/ArapeyRegular-X2Md.ttf) format('truetype') ;
 }
 body {
-    font-family: arapey;
+    font-family: "arapey",bensen ;
     font-size: 16px;
 }
