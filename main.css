@@ -24,7 +24,8 @@ body {
 
   
 a {
-    color: red;      
+    color: white;
+    font-size: 20px;
   }
 a:visited{
     color: orange;
@@ -68,7 +69,7 @@ img{
 
 hr{
     height: 2px; 
-    background-color: red; 
+    background-color: white; 
     border: none;
     
 }
