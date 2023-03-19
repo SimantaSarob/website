@@ -25,7 +25,8 @@ body {
   
 a {
     color: white;
-    font-size: 20px;
+    font-size: ;
+    font-weight: bold;
   }
 a:visited{
     color: orange;
@@ -73,3 +74,11 @@ hr{
     border: none;
     
 }
+
+footer{
+    text-align: center;
+    
+    }
+
+
+
