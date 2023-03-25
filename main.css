@@ -15,7 +15,7 @@ body {
       background: #222222;
       color: white;
       font-size: ;
-      margin: ;
+      margin: 10px;
       padding-left: %;
       padding-right: %;
       padding-top: %;
@@ -59,13 +59,13 @@ div {
     
 }
 img{
-    align: center;
+    align: ;
     width: 70%;
     height: 70%;
-    padding-left: 20%;
+   /* padding-left: 20%;
     padding-right:20 %;
     padding-top: 2% ;
-    padding-bottom: 2%;
+    padding-bottom: 2%; */
 }
 
 hr{
