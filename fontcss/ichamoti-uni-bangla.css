@@ -1,0 +1,14 @@
+@font-face{
+    font-family: ichamoti;
+    src: url(../font/Li-Alinur-Ichamati-Unicode.ttf) format('truetype') ;
+}
+
+/*
+body {
+    font-family: "ichamoti", bensen ;
+    font-size: 18px;
+}
+*/
+.ichamoti {
+    font-family: ichamoti, bensen;
+}
