@@ -3,12 +3,22 @@
     src: url(font/ArapeyRegular-X2Md.ttf) format('truetype') ;
     font-family: bensen;
     src: url(font/BenSen.ttf) format('truetype') ;
-    font-family: comingsoon;
+/*    font-family: comingsoon;
     src: url(font/ComingSoon-Regular.ttf) format('truetype') ;
     font-family: ichamoti;
     src: url(font/Li-Alinur-Ichamati-Unicode.ttf) format('truetype') ;
-    
-    
+    font-family: honeybee ;
+    src: url(font/HoneybeePersonalUseRegular-YzBn4.ttf);
+    font-family: ;
+    src: url(font/);
+    font-family: ;
+    src: url(font/);
+    font-family: ;
+    src: url(font/);
+    font-family: ;
+    src: url(font/);
+    font-family: ;
+ */   src: url(font/);
 }
 @import url('fontcss/englishfont-arapey1.css');
 @import url('fontcss/banglafont-bensen1.css');
