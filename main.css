@@ -17,11 +17,14 @@
     src: url(font/); */
     font-family: hindi-siliguri ;
     src: url(font/HindSiliguri-Regular.ttf) format('truetype');
+    font-family: wishper;
+    src: url(font/Whisper-Regular.ttf);
 }
 @import url('fontcss/englishfont-arapey1.css');
 @import url('fontcss/banglafont-bensen1.css');
 @import url('fontcss/ichamoti-uni-bangla.css');
 @import url('fontcss/hindi-siliguri-regular-bangla-font.css');
+@import url('fontcss/english-whisper-regular.css');
 body {
       background: #222222;
       color: white;

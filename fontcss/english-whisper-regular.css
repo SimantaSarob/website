@@ -1,0 +1,14 @@
+@font-face{
+    font-family: whisper;
+    src: url(../font/Whisper-Regular.ttf) format('truetype') ;
+}
+p {
+    font-family: wishper;
+    font-size: 20px;
+}
+article {
+    font-size: 20px;
+}
+div{
+    font-size: 18px;
+}
